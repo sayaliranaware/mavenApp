@@ -6,6 +6,7 @@
 
   <groupId>com.example</groupId>
   <artifactId>webapp</artifactId>
+  <packaging>war</packaging>
   <version>1</version>
 
   <name>webapp</name>
